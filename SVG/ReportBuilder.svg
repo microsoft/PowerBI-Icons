@@ -1,0 +1,51 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="filter0_f">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.4" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter1_f">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="4" result="effect1_foregroundBlur"/>
+</filter>
+<linearGradient id="paint0_linear" x1="73.6974" y1="88" x2="29.9966" y2="0.919528" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E6AD10"/>
+<stop offset="1" stop-color="#F2C811"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="62" y1="-5.46875" x2="95.2989" y2="90.7134" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E6AD10"/>
+<stop offset="1" stop-color="#C87E0E"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="52.9982" y1="46" x2="77.7862" y2="93.593" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F6D751"/>
+<stop offset="1" stop-color="#E6AD10"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="39.9982" y1="64" x2="55.5272" y2="108.11" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F9E589"/>
+<stop offset="1" stop-color="#F6D751"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="96" height="96" fill="white"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip0)">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="0" width="80" height="96">
+<path d="M9.17157 22.8284C8.42143 23.5786 8 24.596 8 25.6568V84C8 86.2091 9.79086 88 12 88L40 88V92C40 94.2091 41.7909 96 44 96H84C86.2091 96 88 94.2092 88 92V28H80V4C80 1.79086 78.2091 0 76 0H33.6569C32.596 0 31.5786 0.421426 30.8284 1.17157L9.17157 22.8284Z" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M8 0L80 0L80 88L8 88L8 0Z" fill="url(#paint0_linear)"/>
+<path d="M32 0V20C32 22.2091 30.2091 24 28 24H8L32 0Z" fill="#F9E589"/>
+<path d="M88 32V96H70C67.7909 96 66 94.2091 66 92V32C66 29.7909 67.7909 28 70 28H84C86.2091 28 88 29.7909 88 32Z" fill="url(#paint1_linear)"/>
+<g filter="url(#filter0_f)">
+<path d="M75 96.4V50.4C75 48.1909 73.2091 46.4 71 46.4H57C54.7909 46.4 53 48.1909 53 50.4V64.4H44C41.7909 64.4 40 66.1909 40 68.4V96.4H75Z" fill="black" fill-opacity="0.2"/>
+</g>
+<g filter="url(#filter1_f)">
+<path d="M75 98V52C75 49.7909 73.2091 48 71 48H57C54.7909 48 53 49.7909 53 52V66H44C41.7909 66 40 67.7909 40 70V98H75Z" fill="black" fill-opacity="0.18"/>
+</g>
+<path d="M75 50V96H57C54.7909 96 53 94.2091 53 92V50C53 47.7909 54.7909 46 57 46H71C73.2091 46 75 47.7909 75 50Z" fill="url(#paint2_linear)"/>
+<path d="M40 68V96H62V68C62 65.7909 60.2091 64 58 64H44C41.7909 64 40 65.7909 40 68Z" fill="url(#paint3_linear)"/>
+</g>
+</g>
+</svg>
