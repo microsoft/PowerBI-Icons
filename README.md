@@ -1,3 +1,17 @@
+# Data-Marc
+This repository is recently forked from a Microsoft repo. With that, all icons that were in my repository are added to the Microsoft repo. 
+In collaboration with Microsoft, i decided to archive my original repository. 
+
+All diagrams.net links should still work without any problems. 
+In case an icon is missing, please still let me know. I'm happy to collaborate and get it added. 
+
+For the blogpost related to the Diagrams.net / draw.io library for Power BI, please see: 
+[Power BI Icon library for Diagrams.net (draw.io)](https://data-marc.com/2020/09/17/power-bi-icon-library-for-diagrams-net-draw-io/)
+
+
+
+
+
 These Power BI Icons (in PNG and SVG) are provided to you under the Creatice Commons Attribution 4.0 International Public License (see below).
 
 # Contributing
