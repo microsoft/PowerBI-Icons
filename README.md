@@ -26,7 +26,7 @@ The following icons are available:
 |Geospatial Field|<a href="/PNG/GeospatialField.png"><img src="/PNG/GeospatialField.png" height="25"/></a>|<a href="/SVG/GeospatialField.svg"><img src="/SVG/GeospatialField.svg" height="25"/></a>|
 |Goals|<a href="/PNG/Goals.png"><img src="/PNG/Goals.png" height="25"/></a>|<a href="/SVG/Goals.svg"><img src="/SVG/Goals.svg" height="25"/></a>|
 |Linked Entity|<a href="/PNG/LinkedEntity.png"><img src="/PNG/LinkedEntity.png" height="25"/></a>|<a href="/SVG/LinkedEntity.svg"><img src="/SVG/LinkedEntity.svg" height="25"></a>|
-|Hierarchy|<a href="/PNG/Hierachy.png"><img src="/PNG/Hierachy.png" height="25"/></a>||
+|Hierarchy|<a href="/PNG/Hierarchy.png"><img src="/PNG/Hierarchy.png" height="25"/></a>||
 |Identity Field|<a href="/PNG/IdentityField.png"><img src="/PNG/IdentityField.png" height="25"/></a>|<a href="/SVG/IdentityField.svg"><img src="/SVG/IdentityField.svg" height="25"/></a>|
 |KPI|<a href="/PNG/KPI.png"><img src="/PNG/KPI.png" height="25"/></a>|<a href="/SVG/KPI.svg"><img src="/SVG/KPI.svg" height="25"/></a>|
 |Learn|<a href="/PNG/Learn.png"><img src="/PNG/Learn.png" height="25"/></a>|<a href="/SVG/Learn.svg"><img src="/SVG/Learn.svg" height="25"/></a>|
