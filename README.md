@@ -18,7 +18,7 @@ The following images are available:
 |Datagroup|<a href="/PNG/Datagroup.png"><img src="/PNG/Datagroup.png" height="25"/></a>||
 |Dashboard|<a href="/PNG/Dashboard.png"><img src="/PNG/Dashboard.png" height="25"/></a>|<a href="/SVG/Dashboard.svg"><img src="/SVG/Dashboard.svg" height="25"/></a>|
 |Dataset|<a href="/PNG/Dataset.png"><img src="/PNG/Dataset.png" height="25"/></a>|<a href="/SVG/Dataset.svg"><img src="/SVG/Dataset.svg" height="25"/></a>|
-|Dataverse|<a href="/PNG/Dataverse.png"><img src="/PNG/Dataverse.png" height="25"/></a>|<a href="/SVG/Dataverse.svg"><img src="/SVG/Dataverse.svg" height="25"/></a>|
+|Dataverse|<a href="/PNG/Dataverse.png"><img src="/PNG/Dataverse.png" height="25"/></a>&nbsp;<a href="/PNG/Dataverse-Colored.png"><img src="/PNG/Dataverse-Colored.png" height="25"/></a>|<a href="/SVG/Dataverse.svg"><img src="/SVG/Dataverse.svg" height="25"/></a>|
 |DateTime Field|<a href="/PNG/DateTimeField.png"><img src="/PNG/DateTimeField.png" height="25"/></a>|<a href="/SVG/DateTimeField.svg"><img src="/SVG/DateTimeField.svg" height="25"/></a>|
 |Deployment Pipeline|<a href="/PNG/DeploymentPipeline.png"><img src="/PNG/DeploymentPipeline.png" height="25"/></a>|<a href="/SVG/DeploymentPipeline.svg"><img src="/SVG/DeploymentPipeline.svg" height="25"/></a>|
 |Discover|<a href="/PNG/Discover.png"><img src="/PNG/Discover.png" height="25"/></a>|<a href="/SVG/Discover.svg"><img src="/SVG/Discover.svg" height="25"/></a>|
@@ -50,7 +50,9 @@ The following images are available:
 |Premium|<a href="/PNG/Premium.png"><img src="/PNG/Premium.png" height="25"/></a>|<a href="/SVG/Premium.svg"><img src="/SVG/Premium.svg" height="25"/></a>|
 |Premium Per User|<a href="/PNG/PremiumPerUser.png"><img src="/PNG/PremiumPerUser.png" height="25"/></a>|<a href="/SVG/PremiumPerUser.svg"><img src="/SVG/PremiumPerUser.svg" height="25"/></a>|
 |Report|<a href="/PNG/Report.png"><img src="/PNG/Report.png" height="25"/></a>|<a href="/SVG/Report.svg"><img src="/SVG/Report.svg" height="25"/></a>|
+|Row-level security (RLS)|<a href="/PNG/RLS.png"><img src="/PNG/RLS.png" height="25"/></a>||
 |Warning|<a href="/PNG/Warning.png"><img src="/PNG/Warning.png" height="25"/></a>|<a href="/SVG/Warning.svg"><img src="/SVG/Warning.svg" height="25"/></a>|
+|Workspace|<a href="/PNG/Workspace.png"><img src="/PNG/Workspace.png" height="25"/></a>||
 
 # Contributing
 
