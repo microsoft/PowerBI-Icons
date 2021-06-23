@@ -1,7 +1,7 @@
 # Power BI Icons
 
 This repository contains PNG and SVG versions of icons for Power BI, provided to you to use in your documents or architecture diagrams.
-Usage of these icons is subject to the license under which they are provided (see [legal notices](#legal_notices)).
+Usage of these icons is subject to the license under which they are provided (see [legal notices](#legal-notices)).
 
 ## Available images
 The following images are available:
