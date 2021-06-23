@@ -3,10 +3,10 @@
 This repository contains PNG and SVG versions of icons for Power BI, provided to you to use in your documents or architecture diagrams.
 Usage of these icons is subject to the license under which they are provided (see [legal notices](#legal_notices)).
 
-## Available icons
-The following icons are available:
+## Available images
+The following images are available:
 
-|Icon|PNG|SVG|
+|Icon / Logo|PNG|SVG|
 |--|--|--|
 |App|<a href="/PNG/App.png"><img src="/PNG/App.png" height="25"/></a>|<a href="/SVG/App.svg"><img src="/SVG/App.svg" height="25"/></a>|
 |Calculated Column|<a href="/PNG/CalculatedColumn.png"><img src="/PNG/CalculatedColumn.png" height="25"/></a>|<a href="/SVG/CalculatedColumn.svg"><img src="/SVG/CalculatedColumn.svg" height="25"/></a>|
