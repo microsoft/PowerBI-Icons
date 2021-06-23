@@ -1,5 +1,3 @@
-These Power BI Icons (in PNG and SVG) are provided to you under the Creatice Commons Attribution 4.0 International Public License (see below).
-
 # Power BI Icons
 
 This repository contains PNG and SVG versions of icons for Power BI, provided to you to use in your documents or architecture diagrams.
@@ -10,9 +8,9 @@ The following icons are available:
 
 |Icon|PNG|SVG|
 |--|--|--|
-|Power BI Desktop|![](/PNG/Desktop.png)|![](/SVG/Desktop.svg)|
-|Power BI Desktop optimized for Report Server|![](/PNG/DesktopRS.png)|![](/SVG/DesktopRS.svg)|
-|Power BI Report Builder|![](/PNG/ReportBuilder.png)|![](/SVG/ReportBuilder.svg)|
+|Power BI Desktop|![](/PNG/Desktop.png|height=100)|![](/SVG/Desktop.svg|height=100)|
+|Power BI Desktop optimized for Report Server|![](/PNG/DesktopRS.png|height=100)|![](/SVG/DesktopRS.svg|height=100)|
+|Power BI Report Builder|![](/PNG/ReportBuilder.png|height=100)|![](/SVG/ReportBuilder.svg|height=100)|
 
 # Contributing
 
