@@ -8,7 +8,7 @@ The following icons are available:
 
 |Icon|PNG|SVG|
 |--|--|--|
-|Power BI Desktop|![](/PNG/Desktop.png){:height="100px"}||![](/SVG/Desktop.svg{:height="100px"}|
+|Power BI Desktop|<a href="PNG/Desktop.png"><img src="PNG/Desktop.png" height="100"/></a>||![](/SVG/Desktop.svg{:height="100px"}|
 |Power BI Desktop optimized for Report Server|![](/PNG/DesktopRS.png){:height="100px"}|![](/SVG/DesktopRS.svg){:height="100px"}|
 |Power BI Report Builder|![](/PNG/ReportBuilder.png){:height="100px"}|![](/SVG/ReportBuilder.svg){:height="100px"}|
 
