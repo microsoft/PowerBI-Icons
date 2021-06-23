@@ -1,3 +1,4 @@
+These Power BI Icons (in PNG and SVG) are provided to you under the Creatice Commons Attribution 4.0 International Public License (see below).
 
 # Power BI Icons
 
