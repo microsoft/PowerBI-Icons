@@ -37,6 +37,7 @@ The following images are available:
 |Parameter|<a href="/PNG/Parameter.png"><img src="/PNG/Parameter.png" height="25"/></a>|<a href="/SVG/Parameter.svg"><img src="/SVG/Parameter.svg" height="25"/></a>|
 |Power Apps|<a href="/PNG/PowerApps.png"><img src="/PNG/PowerApps.png" height="25"/></a>&nbsp;<a href="/PNG/PowerApps-Colored.png"><img src="/PNG/PowerApps-Colored.png" height="25"/></a>|<a href="/SVG/PowerApps.svg"><img src="/SVG/PowerApps.svg" height="25"/></a>|
 |Power Automate|<a href="/PNG/PowerAutomate.png"><img src="/PNG/PowerAutomate.png" height="25"/></a>&nbsp;<a href="/PNG/PowerAutomate-Colored.png"><img src="/PNG/PowerAutomate-Colored.png" height="25"/></a>|<a href="/SVG/PowerAutomate.svg"><img src="/SVG/PowerAutomate.svg" height="25"/></a>|
+|Power BI|<a href="/PNG/PowerBI.png"><img src="/PNG/PowerBI.png" height="25"/></a>||
 |Power BI Datasource file (PBIDS)|<a href="/PNG/pbids.png"><img src="/PNG/pbids.png" height="25"/></a>||
 |Power BI Desktop|<a href="/PNG/Desktop.png"><img src="/PNG/Desktop.png" height="25"/></a>|<a href="/SVG/Desktop.svg"><img src="/SVG/Desktop.svg" height="25"/></a>|
 |Power BI Desktop optimized for Report Server|<a href="/PNG/DesktopRS.png"><img src="/PNG/DesktopRS.png" height="25"/></a>|<a href="/SVG/DesktopRS.svg"><img src="/SVG/DesktopRS.svg" height="25"/></a>|
