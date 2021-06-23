@@ -9,8 +9,8 @@ The following icons are available:
 |Icon|PNG|SVG|
 |--|--|--|
 |Power BI Desktop|<a href="/PNG/Desktop.png"><img src="/PNG/Desktop.png" height="100"/></a>|<a href="/SVG/Desktop.svg"><img src="/SVG/Desktop.svg" height="100"/></a>|
-|Power BI Desktop optimized for Report Server|<a href="/PNG/DesktopRS.png"><img src="/PNG/Desktop.png" height="100"/></a>|<a href="/SVG/DesktopRS.svg"><img src="/SVG/Desktop.svg" height="100"/></a>|
-|Power BI Report Builder|<a href="/PNG/Reportbuilder.png"><img src="/PNG/Desktop.png" height="100"/></a>|<a href="/SVG/Reportbuilder.svg"><img src="/SVG/Desktop.svg" height="100"/></a>|
+|Power BI Desktop optimized for Report Server|<a href="/PNG/DesktopRS.png"><img src="/PNG/DesktopRS.png" height="100"/></a>|<a href="/SVG/DesktopRS.svg"><img src="/SVG/DesktopRS.svg" height="100"/></a>|
+|Power BI Report Builder|<a href="/PNG/ReportBuilder.png"><img src="/PNG/ReportBuilder.png" height="100"/></a>|<a href="/SVG/ReportBuilder.svg"><img src="/SVG/ReportBuilder.svg" height="100"/></a>|
 
 # Contributing
 
