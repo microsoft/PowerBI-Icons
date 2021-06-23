@@ -8,17 +8,17 @@ The following icons are available:
 
 |Icon|PNG|SVG|
 |--|--|--|
-|App|<a href="/PNG/App.png"><img src="/PNG/App.png" height="100"/></a>|<a href="/SVG/App.svg"><img src="/SVG/App.svg" height="100"/></a>|
-|Computed Entity|<a href="/PNG/ComputedEntity.png"><img src="/PNG/ComputedEntity.png" height="100"/></a>|<a href="/SVG/ComputedEntity.svg"><img src="/SVG/ComputedEntity.svg" height="100"/></a>|
-|Dataflow|<a href="/PNG/Dataflow.png"><img src="/PNG/Dataflow.png" height="100"/></a>|<a href="/SVG/Dataflow.svg"><img src="/SVG/Dataflow.svg" height="100"/></a>|
-|Dashboard|<a href="/PNG/Dashboard.png"><img src="/PNG/Dashboard.png" height="100"/></a>|<a href="/SVG/Dashboard.svg"><img src="/SVG/Dashboard.svg" height="100"/></a>|
-|Dataset|<a href="/PNG/Dataset.png"><img src="/PNG/Dataset.png" height="100"/></a>|<a href="/SVG/Dataset.svg"><img src="/SVG/Dataset.svg" height="100"/></a>|
-|Dataverse|<a href="/PNG/Dataverse.png"><img src="/PNG/Dataverse.png" height="100"/></a>|<a href="/SVG/Dataverse.svg"><img src="/SVG/Dataverse.svg" height="100"/></a>|
-|Deployment Pipeline|<a href="/PNG/DeploymentPipeline.png"><img src="/PNG/DeploymentPipeline.png" height="100"/></a>|<a href="/SVG/DeploymentPipeline.svg"><img src="/SVG/DeploymentPipeline.svg" height="100"/></a>|
-|Power BI Logo|<a href="/PNG/Logo.png"><img src="/PNG/Logo.png" height="100"/></a><a href="/PNG/LogoBlack.png"><img src="/PNG/LogoBlack.png" height="100"/></a><a href="/PNG/LogoYellow.png"><img src="/PNG/LogoYellow.png" height="100"/></a>|<a href="/SVG/Logo.svg"><img src="/SVG/Logo.svg" height="100"/></a>|
-|Power BI Desktop|<a href="/PNG/Desktop.png"><img src="/PNG/Desktop.png" height="100"/></a>|<a href="/SVG/Desktop.svg"><img src="/SVG/Desktop.svg" height="100"/></a>|
-|Power BI Desktop optimized for Report Server|<a href="/PNG/DesktopRS.png"><img src="/PNG/DesktopRS.png" height="100"/></a>|<a href="/SVG/DesktopRS.svg"><img src="/SVG/DesktopRS.svg" height="100"/></a>|
-|Power BI Report Builder|<a href="/PNG/ReportBuilder.png"><img src="/PNG/ReportBuilder.png" height="100"/></a>|<a href="/SVG/ReportBuilder.svg"><img src="/SVG/ReportBuilder.svg" height="100"/></a>|
+|App|<a href="/PNG/App.png"><img src="/PNG/App.png" height="25"/></a>|<a href="/SVG/App.svg"><img src="/SVG/App.svg" height="25"/></a>|
+|Computed Entity|<a href="/PNG/ComputedEntity.png"><img src="/PNG/ComputedEntity.png" height="25"/></a>|<a href="/SVG/ComputedEntity.svg"><img src="/SVG/ComputedEntity.svg" height="25"/></a>|
+|Dataflow|<a href="/PNG/Dataflow.png"><img src="/PNG/Dataflow.png" height="25"/></a>|<a href="/SVG/Dataflow.svg"><img src="/SVG/Dataflow.svg" height="25"/></a>|
+|Dashboard|<a href="/PNG/Dashboard.png"><img src="/PNG/Dashboard.png" height="25"/></a>|<a href="/SVG/Dashboard.svg"><img src="/SVG/Dashboard.svg" height="25"/></a>|
+|Dataset|<a href="/PNG/Dataset.png"><img src="/PNG/Dataset.png" height="25"/></a>|<a href="/SVG/Dataset.svg"><img src="/SVG/Dataset.svg" height="25"/></a>|
+|Dataverse|<a href="/PNG/Dataverse.png"><img src="/PNG/Dataverse.png" height="25"/></a>|<a href="/SVG/Dataverse.svg"><img src="/SVG/Dataverse.svg" height="25"/></a>|
+|Deployment Pipeline|<a href="/PNG/DeploymentPipeline.png"><img src="/PNG/DeploymentPipeline.png" height="25"/></a>|<a href="/SVG/DeploymentPipeline.svg"><img src="/SVG/DeploymentPipeline.svg" height="25"/></a>|
+|Power BI Logo|<a href="/PNG/Logo.png"><img src="/PNG/Logo.png" height="25"/></a>&nbsp;<a href="/PNG/LogoBlack.png"><img src="/PNG/LogoBlack.png" height="25"/></a>&nbsp;<a href="/PNG/LogoYellow.png"><img src="/PNG/LogoYellow.png" height="25"/></a>|<a href="/SVG/Logo.svg"><img src="/SVG/Logo.svg" height="25"/></a>|
+|Power BI Desktop|<a href="/PNG/Desktop.png"><img src="/PNG/Desktop.png" height="25"/></a>|<a href="/SVG/Desktop.svg"><img src="/SVG/Desktop.svg" height="25"/></a>|
+|Power BI Desktop optimized for Report Server|<a href="/PNG/DesktopRS.png"><img src="/PNG/DesktopRS.png" height="25"/></a>|<a href="/SVG/DesktopRS.svg"><img src="/SVG/DesktopRS.svg" height="25"/></a>|
+|Power BI Report Builder|<a href="/PNG/ReportBuilder.png"><img src="/PNG/ReportBuilder.png" height="25"/></a>|<a href="/SVG/ReportBuilder.svg"><img src="/SVG/ReportBuilder.svg" height="25"/></a>|
 
 # Contributing
 
