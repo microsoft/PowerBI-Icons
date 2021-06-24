@@ -15,10 +15,10 @@ The following images are available:
 |Change Detection Measure|<a href="/PNG/ChangeDetectionMeasure.png"><img src="/PNG/ChangeDetectionMeasure.png" height="25"/></a>|<a href="/SVG/ChangeDetectionMeasure.svg"><img src="/SVG/ChangeDetectionMeasure.svg" height="25"/></a>|
 |Computed Entity|<a href="/PNG/ComputedEntity.png"><img src="/PNG/ComputedEntity.png" height="25"/></a>|<a href="/SVG/ComputedEntity.svg"><img src="/SVG/ComputedEntity.svg" height="25"/></a>|
 |Dataflow|<a href="/PNG/Dataflow.png"><img src="/PNG/Dataflow.png" height="25"/></a>|<a href="/SVG/Dataflow.svg"><img src="/SVG/Dataflow.svg" height="25"/></a>|
-|Datagroup|<a href="/PNG/Datagroup.png"><img src="/PNG/Datagroup.png" height="25"/></a>||
+|Datagroup|<a href="/PNG/Datagroup.png"><img src="/PNG/Datagroup.png" height="25"/></a>|<a href="/SVG/Datagroup.svg"><img src="/SVG/Datagroup.svg" height="25"/></a>|
 |Dashboard|<a href="/PNG/Dashboard.png"><img src="/PNG/Dashboard.png" height="25"/></a>|<a href="/SVG/Dashboard.svg"><img src="/SVG/Dashboard.svg" height="25"/></a>|
 |Dataset|<a href="/PNG/Dataset.png"><img src="/PNG/Dataset.png" height="25"/></a>|<a href="/SVG/Dataset.svg"><img src="/SVG/Dataset.svg" height="25"/></a>|
-|Dataverse|<a href="/PNG/Dataverse.png"><img src="/PNG/Dataverse.png" height="25"/></a>&nbsp;<a href="/PNG/Dataverse-Colored.png"><img src="/PNG/Dataverse-Colored.png" height="25"/></a>|<a href="/SVG/Dataverse.svg"><img src="/SVG/Dataverse.svg" height="25"/></a>|
+|Dataverse|<a href="/PNG/Dataverse.png"><img src="/PNG/Dataverse.png" height="25"/></a>&nbsp;<a href="/PNG/Dataverse-Colored.png"><img src="/PNG/Dataverse-Colored.png" height="25"/></a>|<a href="/SVG/Dataverse.svg"><img src="/SVG/Dataverse.svg" height="25"/></a>&nbsp;<a href="/SVG/Dataverse-Colored.svg"><img src="/SVG/Dataverse-Colored.svg" height="25"/></a>|
 |DateTime Field|<a href="/PNG/DateTimeField.png"><img src="/PNG/DateTimeField.png" height="25"/></a>|<a href="/SVG/DateTimeField.svg"><img src="/SVG/DateTimeField.svg" height="25"/></a>|
 |Deployment Pipeline|<a href="/PNG/DeploymentPipeline.png"><img src="/PNG/DeploymentPipeline.png" height="25"/></a>|<a href="/SVG/DeploymentPipeline.svg"><img src="/SVG/DeploymentPipeline.svg" height="25"/></a>|
 |Discover|<a href="/PNG/Discover.png"><img src="/PNG/Discover.png" height="25"/></a>|<a href="/SVG/Discover.svg"><img src="/SVG/Discover.svg" height="25"/></a>|
@@ -26,7 +26,7 @@ The following images are available:
 |Geospatial Field|<a href="/PNG/GeospatialField.png"><img src="/PNG/GeospatialField.png" height="25"/></a>|<a href="/SVG/GeospatialField.svg"><img src="/SVG/GeospatialField.svg" height="25"/></a>|
 |Goals|<a href="/PNG/Goals.png"><img src="/PNG/Goals.png" height="25"/></a>|<a href="/SVG/Goals.svg"><img src="/SVG/Goals.svg" height="25"/></a>|
 |Linked Entity|<a href="/PNG/LinkedEntity.png"><img src="/PNG/LinkedEntity.png" height="25"/></a>|<a href="/SVG/LinkedEntity.svg"><img src="/SVG/LinkedEntity.svg" height="25"></a>|
-|Hierarchy|<a href="/PNG/Hierarchy.png"><img src="/PNG/Hierarchy.png" height="25"/></a>||
+|Hierarchy|<a href="/PNG/Hierarchy.png"><img src="/PNG/Hierarchy.png" height="25"/></a>|<a href="/SVG/Hierarchy.svg"><img src="/SVG/Hierarchy.svg" height="25"/></a>|
 |Identity Field|<a href="/PNG/IdentityField.png"><img src="/PNG/IdentityField.png" height="25"/></a>|<a href="/SVG/IdentityField.svg"><img src="/SVG/IdentityField.svg" height="25"/></a>|
 |KPI|<a href="/PNG/KPI.png"><img src="/PNG/KPI.png" height="25"/></a>|<a href="/SVG/KPI.svg"><img src="/SVG/KPI.svg" height="25"/></a>|
 |Learn|<a href="/PNG/Learn.png"><img src="/PNG/Learn.png" height="25"/></a>|<a href="/SVG/Learn.svg"><img src="/SVG/Learn.svg" height="25"/></a>|
@@ -37,7 +37,7 @@ The following images are available:
 |Parameter|<a href="/PNG/Parameter.png"><img src="/PNG/Parameter.png" height="25"/></a>|<a href="/SVG/Parameter.svg"><img src="/SVG/Parameter.svg" height="25"/></a>|
 |Power Apps|<a href="/PNG/PowerApps.png"><img src="/PNG/PowerApps.png" height="25"/></a>&nbsp;<a href="/PNG/PowerApps-Colored.png"><img src="/PNG/PowerApps-Colored.png" height="25"/></a>|<a href="/SVG/PowerApps.svg"><img src="/SVG/PowerApps.svg" height="25"/></a>|
 |Power Automate|<a href="/PNG/PowerAutomate.png"><img src="/PNG/PowerAutomate.png" height="25"/></a>&nbsp;<a href="/PNG/PowerAutomate-Colored.png"><img src="/PNG/PowerAutomate-Colored.png" height="25"/></a>|<a href="/SVG/PowerAutomate.svg"><img src="/SVG/PowerAutomate.svg" height="25"/></a>|
-|Power BI|<a href="/PNG/PowerBI.png"><img src="/PNG/PowerBI.png" height="25"/></a>||
+|Power BI|<a href="/PNG/PowerBI.png"><img src="/PNG/PowerBI.png" height="25"/></a>|<a href="/SVG/PowerBI.svg"><img src="/SVG/PowerBI.svg" height="25"/></a>|
 |Power BI Datasource file (PBIDS)|<a href="/PNG/pbids.png"><img src="/PNG/pbids.png" height="25"/></a>||
 |Power BI Desktop|<a href="/PNG/Desktop.png"><img src="/PNG/Desktop.png" height="25"/></a>|<a href="/SVG/Desktop.svg"><img src="/SVG/Desktop.svg" height="25"/></a>|
 |Power BI Desktop optimized for Report Server|<a href="/PNG/DesktopRS.png"><img src="/PNG/DesktopRS.png" height="25"/></a>|<a href="/SVG/DesktopRS.svg"><img src="/SVG/DesktopRS.svg" height="25"/></a>|
@@ -45,8 +45,8 @@ The following images are available:
 |Power BI Logo|<a href="/PNG/Logo.png"><img src="/PNG/Logo.png" height="25"/></a>&nbsp;<a href="/PNG/LogoBlack.png"><img src="/PNG/LogoBlack.png" height="25"/></a>&nbsp;<a href="/PNG/LogoYellow.png"><img src="/PNG/LogoYellow.png" height="25"/></a>|<a href="/SVG/Logo.svg"><img src="/SVG/Logo.svg" height="25"/></a>|
 |Power BI Report Builder|<a href="/PNG/ReportBuilder.png"><img src="/PNG/ReportBuilder.png" height="25"/></a>|<a href="/SVG/ReportBuilder.svg"><img src="/SVG/ReportBuilder.svg" height="25"/></a>|
 |Power BI Template file (PBIT)|<a href="/PNG/pbit.png"><img src="/PNG/pbit.png" height="25"/></a>||
-|Power Query|<a href="/PNG/PowerQuery-Colored.png"><img src="/PNG/PowerQuery-Colored.png" height="25"/></a>||
-|Power Virtual Agents|<a href="/PNG/PowerVirtualAgents.png"><img src="/PNG/PowerVirtualAgents.png" height="25"/></a>&nbsp;<a href="/PNG/PowerVirtualAgents-Colored.png"><img src="/PNG/PowerVirtualAgents-Colored.png" height="25"/></a>|<a href="/SVG/PowerVirtualAgents.svg"><img src="/SVG/PowerVirtualAgents.svg" height="25"/></a>|
+|Power Query|<a href="/PNG/PowerQuery-Colored.png"><img src="/PNG/PowerQuery-Colored.png" height="25"/></a>|<a href="/SVG/PowerQuery-Colored.svg"><img src="/SVG/PowerQuery-Colored.svg" height="25"/></a>|
+|Power Virtual Agents|<a href="/PNG/PowerVirtualAgents.png"><img src="/PNG/PowerVirtualAgents.png" height="25"/></a>&nbsp;<a href="/PNG/PowerVirtualAgents-Colored.png"><img src="/PNG/PowerVirtualAgents-Colored.png" height="25"/></a>|<a href="/SVG/PowerVirtualAgents.svg"><img src="/SVG/PowerVirtualAgents.svg" height="25"/></a>&nbsp;<a href="/SVG/PowerVirtualAgents-Colored.svg"><img src="/SVG/PowerVirtualAgents-Colored.svg" height="25"/></a>|
 |Premium|<a href="/PNG/Premium.png"><img src="/PNG/Premium.png" height="25"/></a>|<a href="/SVG/Premium.svg"><img src="/SVG/Premium.svg" height="25"/></a>|
 |Premium Per User|<a href="/PNG/PremiumPerUser.png"><img src="/PNG/PremiumPerUser.png" height="25"/></a>|<a href="/SVG/PremiumPerUser.svg"><img src="/SVG/PremiumPerUser.svg" height="25"/></a>|
 |Report|<a href="/PNG/Report.png"><img src="/PNG/Report.png" height="25"/></a>|<a href="/SVG/Report.svg"><img src="/SVG/Report.svg" height="25"/></a>|
