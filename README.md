@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data-Marc
 This repository is recently forked from a Microsoft repo. With that, all icons that were in my repository are added to the Microsoft repo. 
 In collaboration with Microsoft, i decided to archive my original repository. 
