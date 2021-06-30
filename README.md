@@ -6,9 +6,8 @@ All diagrams.net links should still work without any problems.
 In case an icon is missing, please still let me know. I'm happy to collaborate and get it added. 
 
 For the blogpost related to the Diagrams.net / draw.io library for Power BI, please see: 
-[Power BI Icon library for Diagrams.net (draw.io)](https://data-marc.com/2020/09/17/power-bi-icon-library-for-diagrams-net-draw-io/)
-
-
+[Power BI Icon library for Diagrams.net (draw.io)](https://data-marc.com/2021/06/30/power-bi-icon-library-now-includes-official-icons-to-use-in-draw-io-diagrams-net/)
+Want to directly open the library in Diagrams.net? Please use this link [Open Diagrams.net with Power BI Icon Library](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmarclelijveld%2FPower-BI-Icons%2Fmaster%2FDiagrams.net_PowerBIIcons.xml)
 
 
 
