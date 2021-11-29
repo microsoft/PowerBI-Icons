@@ -12,7 +12,6 @@ Want to directly open the library in Diagrams.net? Please use this link [Open Di
 
 
 These Power BI Icons (in PNG and SVG) are provided to you under the Creatice Commons Attribution 4.0 International Public License (see below).
-=======
 # Power BI Icons
 
 This repository contains PNG and SVG versions of icons for Power BI, provided to you to use in your documents or architecture diagrams.
@@ -66,9 +65,9 @@ The following images are available:
 |Premium Per User|<a href="/PNG/PremiumPerUser.png"><img src="/PNG/PremiumPerUser.png" height="25"/></a>|<a href="/SVG/PremiumPerUser.svg"><img src="/SVG/PremiumPerUser.svg" height="25"/></a>|
 |Report|<a href="/PNG/Report.png"><img src="/PNG/Report.png" height="25"/></a>|<a href="/SVG/Report.svg"><img src="/SVG/Report.svg" height="25"/></a>|
 |Row-level security (RLS)|<a href="/PNG/RLS.png"><img src="/PNG/RLS.png" height="25"/></a>||
+|Streaming Dataset|<a href="/PNG/Streaming-Dataset.png"><img src="/PNG/Streaming-Dataset.png" height="25"/></a>|<A href="/SVG/Streaming-Dataset.svg"><img src="/SVG/Streaming-Dataset.svg" height="25"/></a>|
 |Warning|<a href="/PNG/Warning.png"><img src="/PNG/Warning.png" height="25"/></a>|<a href="/SVG/Warning.svg"><img src="/SVG/Warning.svg" height="25"/></a>|
-|Workspace|<a href="/PNG/Workspace.png"><img src="/PNG/Workspace.png" height="25"/></a>||
->>>>>>> 3c356bde210ee5d99bf624c2902e28abeac697bd
+|Workspace|<a href="/PNG/Workspace.png"><img src="/PNG/Workspace.png" height="25"/></a>|<a href="/SVG/Workspace.svg"><img src="/SVG/Workspace.svg" height="25"/></a>|
 
 # Contributing
 
