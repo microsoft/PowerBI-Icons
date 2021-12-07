@@ -22,6 +22,7 @@ The following images are available:
 |DateTime Field|<a href="/PNG/DateTimeField.png"><img src="/PNG/DateTimeField.png" height="25"/></a>|<a href="/SVG/DateTimeField.svg"><img src="/SVG/DateTimeField.svg" height="25"/></a>|
 |Deployment Pipeline|<a href="/PNG/DeploymentPipeline.png"><img src="/PNG/DeploymentPipeline.png" height="25"/></a>|<a href="/SVG/DeploymentPipeline.svg"><img src="/SVG/DeploymentPipeline.svg" height="25"/></a>|
 |Discover|<a href="/PNG/Discover.png"><img src="/PNG/Discover.png" height="25"/></a>|<a href="/SVG/Discover.svg"><img src="/SVG/Discover.svg" height="25"/></a>|
+|Excel Workbook|<a href="/PNG/ExcelWorkbook.png"><img src="/PNG/ExcelWorkbook.png" height="25"/></a>|<a href="/SVG/ExcelWorkbook.svg"><img src="/SVG/ExcelWorkbook.svg" height="25"/></a>|
 |Folder|<a href="/PNG/Folder.png"><img src="/PNG/Folder.png" height="25"/></a>|<a href="/SVG/Folder.svg"><img src="/SVG/Folder.svg" height="25"/></a>|
 |Geospatial Field|<a href="/PNG/GeospatialField.png"><img src="/PNG/GeospatialField.png" height="25"/></a>|<a href="/SVG/GeospatialField.svg"><img src="/SVG/GeospatialField.svg" height="25"/></a>|
 |Goals|<a href="/PNG/Goals.png"><img src="/PNG/Goals.png" height="25"/></a>|<a href="/SVG/Goals.svg"><img src="/SVG/Goals.svg" height="25"/></a>|
@@ -52,6 +53,7 @@ The following images are available:
 |Report|<a href="/PNG/Report.png"><img src="/PNG/Report.png" height="25"/></a>|<a href="/SVG/Report.svg"><img src="/SVG/Report.svg" height="25"/></a>|
 |Row-level security (RLS)|<a href="/PNG/RLS.png"><img src="/PNG/RLS.png" height="25"/></a>||
 |Streaming Dataset|<a href="/PNG/Streaming-Dataset.png"><img src="/PNG/Streaming-Dataset.png" height="25"/></a>|<A href="/SVG/Streaming-Dataset.svg"><img src="/SVG/Streaming-Dataset.svg" height="25"/></a>|
+|Streaming Dataflow|<a href="/PNG/StreamingDataflow.png"><img src="/PNG/StreamingDataflow.png" height="25"/></a>|<a href="/SVG/StreamingDataflow.svg"><img src="/SVG/StreamingDataflow.svg" height="25"/></a>|
 |Warning|<a href="/PNG/Warning.png"><img src="/PNG/Warning.png" height="25"/></a>|<a href="/SVG/Warning.svg"><img src="/SVG/Warning.svg" height="25"/></a>|
 |Workspace|<a href="/PNG/Workspace.png"><img src="/PNG/Workspace.png" height="25"/></a>|<a href="/SVG/Workspace.svg"><img src="/SVG/Workspace.svg" height="25"/></a>|
 
