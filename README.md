@@ -12,6 +12,7 @@ The following images are available:
 |Calculated Column|<a href="/PNG/CalculatedColumn.png"><img src="/PNG/CalculatedColumn.png" height="25"/></a>|<a href="/SVG/CalculatedColumn.svg"><img src="/SVG/CalculatedColumn.svg" height="25"/></a>|
 |Calculated Column Numeric|<a href="/PNG/CalculatedColumnNumeric.png"><img src="/PNG/CalculatedColumnNumeric.png" height="25"/></a>|<a href="/SVG/CalculatedColumnNumeric.svg"><img src="/SVG/CalculatedColumnNumeric.svg" height="25"/></a>|
 |Calculated Table|<a href="/PNG/CalculatedTable.png"><img src="/PNG/CalculatedTable.png" height="25"/></a>|<a href="/SVG/CalculatedTable.svg"><img src="/SVG/CalculatedTable.svg" height="25"/></a>|
+|Certified|<a href="/PNG/Certified.png"><img src="/PNG/Certified.png" height="25"/></a>|<a href="/SVG/Certified.svg"><img src="/SVG/Certified.svg" height="25"/></a>|
 |Change Detection Measure|<a href="/PNG/ChangeDetectionMeasure.png"><img src="/PNG/ChangeDetectionMeasure.png" height="25"/></a>|<a href="/SVG/ChangeDetectionMeasure.svg"><img src="/SVG/ChangeDetectionMeasure.svg" height="25"/></a>|
 |Computed Entity|<a href="/PNG/ComputedEntity.png"><img src="/PNG/ComputedEntity.png" height="25"/></a>|<a href="/SVG/ComputedEntity.svg"><img src="/SVG/ComputedEntity.svg" height="25"/></a>|
 |Dataflow|<a href="/PNG/Dataflow.png"><img src="/PNG/Dataflow.png" height="25"/></a>|<a href="/SVG/Dataflow.svg"><img src="/SVG/Dataflow.svg" height="25"/></a>|
@@ -50,6 +51,7 @@ The following images are available:
 |Power Virtual Agents|<a href="/PNG/PowerVirtualAgents.png"><img src="/PNG/PowerVirtualAgents.png" height="25"/></a>&nbsp;<a href="/PNG/PowerVirtualAgents-Colored.png"><img src="/PNG/PowerVirtualAgents-Colored.png" height="25"/></a>|<a href="/SVG/PowerVirtualAgents.svg"><img src="/SVG/PowerVirtualAgents.svg" height="25"/></a>&nbsp;<a href="/SVG/PowerVirtualAgents-Colored.svg"><img src="/SVG/PowerVirtualAgents-Colored.svg" height="25"/></a>|
 |Premium|<a href="/PNG/Premium.png"><img src="/PNG/Premium.png" height="25"/></a>|<a href="/SVG/Premium.svg"><img src="/SVG/Premium.svg" height="25"/></a>|
 |Premium Per User|<a href="/PNG/PremiumPerUser.png"><img src="/PNG/PremiumPerUser.png" height="25"/></a>|<a href="/SVG/PremiumPerUser.svg"><img src="/SVG/PremiumPerUser.svg" height="25"/></a>|
+|Promoted|<a href="/PNG/Promoted.png"><img src="/PNG/Promoted.png" height="25"/></a>|<a href="/SVG/Promoted.svg"><img src="/SVG/Promoted.svg" height="25"/></a>|
 |Report|<a href="/PNG/Report.png"><img src="/PNG/Report.png" height="25"/></a>|<a href="/SVG/Report.svg"><img src="/SVG/Report.svg" height="25"/></a>|
 |Row-level security (RLS)|<a href="/PNG/RLS.png"><img src="/PNG/RLS.png" height="25"/></a>||
 |Streaming Dataset|<a href="/PNG/Streaming-Dataset.png"><img src="/PNG/Streaming-Dataset.png" height="25"/></a>|<A href="/SVG/Streaming-Dataset.svg"><img src="/SVG/Streaming-Dataset.svg" height="25"/></a>|
