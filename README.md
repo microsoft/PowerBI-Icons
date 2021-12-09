@@ -26,6 +26,7 @@ The following images are available:
 |Calculated Column|<a href="/PNG/CalculatedColumn.png"><img src="/PNG/CalculatedColumn.png" height="25"/></a>|<a href="/SVG/CalculatedColumn.svg"><img src="/SVG/CalculatedColumn.svg" height="25"/></a>|
 |Calculated Column Numeric|<a href="/PNG/CalculatedColumnNumeric.png"><img src="/PNG/CalculatedColumnNumeric.png" height="25"/></a>|<a href="/SVG/CalculatedColumnNumeric.svg"><img src="/SVG/CalculatedColumnNumeric.svg" height="25"/></a>|
 |Calculated Table|<a href="/PNG/CalculatedTable.png"><img src="/PNG/CalculatedTable.png" height="25"/></a>|<a href="/SVG/CalculatedTable.svg"><img src="/SVG/CalculatedTable.svg" height="25"/></a>|
+|Certified|<a href="/PNG/Certified.png"><img src="/PNG/Certified.png" height="25"/></a>|<a href="/SVG/Certified.svg"><img src="/SVG/Certified.svg" height="25"/></a>|
 |Change Detection Measure|<a href="/PNG/ChangeDetectionMeasure.png"><img src="/PNG/ChangeDetectionMeasure.png" height="25"/></a>|<a href="/SVG/ChangeDetectionMeasure.svg"><img src="/SVG/ChangeDetectionMeasure.svg" height="25"/></a>|
 |Computed Entity|<a href="/PNG/ComputedEntity.png"><img src="/PNG/ComputedEntity.png" height="25"/></a>|<a href="/SVG/ComputedEntity.svg"><img src="/SVG/ComputedEntity.svg" height="25"/></a>|
 |Dataflow|<a href="/PNG/Dataflow.png"><img src="/PNG/Dataflow.png" height="25"/></a>|<a href="/SVG/Dataflow.svg"><img src="/SVG/Dataflow.svg" height="25"/></a>|
@@ -57,13 +58,14 @@ The following images are available:
 |Power BI Desktop|<a href="/PNG/Desktop.png"><img src="/PNG/Desktop.png" height="25"/></a>|<a href="/SVG/Desktop.svg"><img src="/SVG/Desktop.svg" height="25"/></a>|
 |Power BI Desktop optimized for Report Server|<a href="/PNG/DesktopRS.png"><img src="/PNG/DesktopRS.png" height="25"/></a>|<a href="/SVG/DesktopRS.svg"><img src="/SVG/DesktopRS.svg" height="25"/></a>|
 |Power BI File (PBIX)|<a href="/PNG/pbix.png"><img src="/PNG/pbix.png" height="25"/></a>||
-|Power BI Logo|<a href="/PNG/Logo.png"><img src="/PNG/Logo.png" height="25"/></a>&nbsp;<a href="/PNG/LogoBlack.png"><img src="/PNG/LogoBlack.png" height="25"/></a>&nbsp;<a href="/PNG/LogoYellow.png"><img src="/PNG/LogoYellow.png" height="25"/></a>|<a href="/SVG/Logo.svg"><img src="/SVG/Logo.svg" height="25"/></a>|
+|Power BI <s>Logo</s>Icon|<a href="/PNG/Logo.png"><img src="/PNG/Logo.png" height="25"/></a>&nbsp;<a href="/PNG/LogoBlack.png"><img src="/PNG/LogoBlack.png" height="25"/></a>&nbsp;<a href="/PNG/LogoYellow.png"><img src="/PNG/LogoYellow.png" height="25"/></a>|<a href="/SVG/Logo.svg"><img src="/SVG/Logo.svg" height="25"/></a>|
 |Power BI Report Builder|<a href="/PNG/ReportBuilder.png"><img src="/PNG/ReportBuilder.png" height="25"/></a>|<a href="/SVG/ReportBuilder.svg"><img src="/SVG/ReportBuilder.svg" height="25"/></a>|
 |Power BI Template file (PBIT)|<a href="/PNG/pbit.png"><img src="/PNG/pbit.png" height="25"/></a>||
 |Power Query|<a href="/PNG/PowerQuery-Colored.png"><img src="/PNG/PowerQuery-Colored.png" height="25"/></a>|<a href="/SVG/PowerQuery-Colored.svg"><img src="/SVG/PowerQuery-Colored.svg" height="25"/></a>|
 |Power Virtual Agents|<a href="/PNG/PowerVirtualAgents.png"><img src="/PNG/PowerVirtualAgents.png" height="25"/></a>&nbsp;<a href="/PNG/PowerVirtualAgents-Colored.png"><img src="/PNG/PowerVirtualAgents-Colored.png" height="25"/></a>|<a href="/SVG/PowerVirtualAgents.svg"><img src="/SVG/PowerVirtualAgents.svg" height="25"/></a>&nbsp;<a href="/SVG/PowerVirtualAgents-Colored.svg"><img src="/SVG/PowerVirtualAgents-Colored.svg" height="25"/></a>|
 |Premium|<a href="/PNG/Premium.png"><img src="/PNG/Premium.png" height="25"/></a>|<a href="/SVG/Premium.svg"><img src="/SVG/Premium.svg" height="25"/></a>|
 |Premium Per User|<a href="/PNG/PremiumPerUser.png"><img src="/PNG/PremiumPerUser.png" height="25"/></a>|<a href="/SVG/PremiumPerUser.svg"><img src="/SVG/PremiumPerUser.svg" height="25"/></a>|
+|Promoted|<a href="/PNG/Promoted.png"><img src="/PNG/Promoted.png" height="25"/></a>|<a href="/SVG/Promoted.svg"><img src="/SVG/Promoted.svg" height="25"/></a>|
 |Report|<a href="/PNG/Report.png"><img src="/PNG/Report.png" height="25"/></a>|<a href="/SVG/Report.svg"><img src="/SVG/Report.svg" height="25"/></a>|
 |Row-level security (RLS)|<a href="/PNG/RLS.png"><img src="/PNG/RLS.png" height="25"/></a>||
 |Streaming Dataset|<a href="/PNG/Streaming-Dataset.png"><img src="/PNG/Streaming-Dataset.png" height="25"/></a>|<A href="/SVG/Streaming-Dataset.svg"><img src="/SVG/Streaming-Dataset.svg" height="25"/></a>|
