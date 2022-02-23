@@ -1,3 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048">
-  <path d="M256 0h1408v2048H256V0zm1280 1920V128H384v1792h1152zM1408 256v384H512V256h896zm-128 256V384H640v128h640zM640 896v128H512V896h128zm256 128V896h128v128H896zm384 0V896h128v128h-128zm-640 256v128H512v-128h128zm256 128v-128h128v128H896zm384 0v-128h128v128h-128zm-640 256v128H512v-128h128zm256 128v-128h128v128H896zm384 0v-128h128v128h-128z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 1408 2048"
+   version="1.1"
+   id="svg15388"
+   width="1408"
+   height="2048">
+  <metadata
+     id="metadata15394">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15392" />
+  <path
+     d="M 0,0 H 1408 V 2048 H 0 Z M 1280,1920 V 128 H 128 V 1920 Z M 1152,256 V 640 H 256 V 256 Z M 1024,512 V 384 H 384 V 512 Z M 384,896 v 128 H 256 V 896 Z m 256,128 V 896 h 128 v 128 z m 384,0 V 896 h 128 v 128 z m -640,256 v 128 H 256 v -128 z m 256,128 v -128 h 128 v 128 z m 384,0 v -128 h 128 v 128 z m -640,256 v 128 H 256 v -128 z m 256,128 v -128 h 128 v 128 z m 384,0 v -128 h 128 v 128 z"
+     id="path15386" />
 </svg>

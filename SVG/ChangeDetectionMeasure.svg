@@ -1,3 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048">
-  <path d="M896 768v128H769V768h127zm256-512v384H256V256h896zm-128 256V384H384v128h640zm-384 768v128H513v-128h127zm256-256v128H769v-128h127zm129 640v-128h76l-64 128h-12zm-512 0v-128h127v128H513zm383-384v128H769v-128h127zm-127 384v-128h127v128H769zm-513 0v-128h128v128H256zm896-896v128h-127V768h127zm0 512v128h-127v-128h127zm0-256v128h-127v-128h127zm-512 0v128H513v-128h127zM128 128v1664h845l-64 128H0V0h1408v922l-128 256V128H128zm512 640v128H513V768h127zm-256 0v128H256V768h128zm0 512v128H256v-128h128zm0-256v128H256v-128h128zm1152 0l512 1024H1024l512-1024zm0 286l-305 610h610l-305-610z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 2048 2048"
+   version="1.1"
+   id="svg2065"
+   width="2048"
+   height="2048">
+  <metadata
+     id="metadata2071">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2069" />
+  <path
+     d="M 896,768 V 896 H 769 V 768 Z M 1152,256 V 640 H 256 V 256 Z M 1024,512 V 384 H 384 v 128 z m -384,768 v 128 H 513 v -128 z m 256,-256 v 128 H 769 v -128 z m 129,640 v -128 h 76 l -64,128 z m -512,0 v -128 h 127 v 128 z m 383,-384 v 128 H 769 v -128 z m -127,384 v -128 h 127 v 128 z m -513,0 v -128 h 128 v 128 z M 1152,768 V 896 H 1025 V 768 Z m 0,512 v 128 h -127 v -128 z m 0,-256 v 128 h -127 v -128 z m -512,0 v 128 H 513 V 1024 Z M 128,128 v 1664 h 845 l -64,128 H 0 V 0 h 1408 v 922 l -128,256 V 128 Z M 640,768 V 896 H 513 V 768 Z m -256,0 V 896 H 256 V 768 Z m 0,512 v 128 H 256 v -128 z m 0,-256 v 128 H 256 v -128 z m 1152,0 512,1024 H 1024 Z m 0,286 -305,610 h 610 z"
+     id="path2063" />
 </svg>
