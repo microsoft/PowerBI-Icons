@@ -1,3 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048">
-  <path d="M0 128V0h128v128H0zm0 256V256h128v128H0zm0 256V512h128v128H0zm0 256V768h128v128H0zm0 256v-128h128v128H0zm0 256v-128h128v128H0zm0 256v-128h128v128H0zm0 256v-128h128v128H0zM1792 384V256h128v128h-128zm0 256V512h128v128h-128zm0 256V768h128v128h-128zm0 256v-128h128v128h-128zm0 256v-128h128v128h-128zm0 256v-128h128v128h-128zm0 256v-128h128v128h-128zM384 0v128H256V0h128zm256 0v128H512V0h128zm256 0v128H768V0h128zm256 0v128h-128V0h128zm256 0v128h-128V0h128zm128 128V0h128v128h-128zM256 1920v-128h128v128H256zm256 0v-128h128v128H512zm256 0v-128h128v128H768zm256 0v-128h128v128h-128zm256 0v-128h128v128h-128zm256 0v-128h128v128h-128zM1792 0h128v128h-128V0zm-256 384v1152H384V384h1152zm-128 512V512h-384v384h384zM896 512H512v384h384V512zm-384 512v384h384v-384H512zm512 384h384v-384h-384v384z" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 1920 1920"
+   version="1.1"
+   id="svg3865"
+   width="1920"
+   height="1920">
+  <metadata
+     id="metadata3871">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3869" />
+  <path
+     d="M 0,128 V 0 H 128 V 128 Z M 0,384 V 256 H 128 V 384 Z M 0,640 V 512 H 128 V 640 Z M 0,896 V 768 h 128 v 128 z m 0,256 v -128 h 128 v 128 z m 0,256 v -128 h 128 v 128 z m 0,256 v -128 h 128 v 128 z m 0,256 v -128 h 128 v 128 z M 1792,384 V 256 h 128 v 128 z m 0,256 V 512 h 128 v 128 z m 0,256 V 768 h 128 v 128 z m 0,256 v -128 h 128 v 128 z m 0,256 v -128 h 128 v 128 z m 0,256 v -128 h 128 v 128 z m 0,256 v -128 h 128 v 128 z M 384,0 V 128 H 256 V 0 Z M 640,0 V 128 H 512 V 0 Z M 896,0 V 128 H 768 V 0 Z m 256,0 V 128 H 1024 V 0 Z m 256,0 V 128 H 1280 V 0 Z m 128,128 V 0 h 128 V 128 Z M 256,1920 v -128 h 128 v 128 z m 256,0 v -128 h 128 v 128 z m 256,0 v -128 h 128 v 128 z m 256,0 v -128 h 128 v 128 z m 256,0 v -128 h 128 v 128 z m 256,0 v -128 h 128 v 128 z M 1792,0 h 128 V 128 H 1792 Z M 1536,384 V 1536 H 384 V 384 Z M 1408,896 V 512 H 1024 V 896 Z M 896,512 H 512 v 384 h 384 z m -384,512 v 384 h 384 v -384 z m 512,384 h 384 v -384 h -384 z"
+     id="path3863" />
 </svg>
