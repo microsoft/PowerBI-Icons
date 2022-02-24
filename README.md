@@ -67,7 +67,7 @@ The following images are available:
 |Premium Per User|<a href="/PNG/PremiumPerUser.png"><img src="/PNG/PremiumPerUser.png" height="25"/></a>|<a href="/SVG/PremiumPerUser.svg"><img src="/SVG/PremiumPerUser.svg" height="25"/></a>|
 |Promoted|<a href="/PNG/Promoted.png"><img src="/PNG/Promoted.png" height="25"/></a>|<a href="/SVG/Promoted.svg"><img src="/SVG/Promoted.svg" height="25"/></a>|
 |Report|<a href="/PNG/Report.png"><img src="/PNG/Report.png" height="25"/></a>|<a href="/SVG/Report.svg"><img src="/SVG/Report.svg" height="25"/></a>|
-|Row-level security (RLS)|<a href="/PNG/RLS.png"><img src="/PNG/RLS.png" height="25"/></a>||
+|Row-level security (RLS)|<a href="/PNG/RLS.png"><img src="/PNG/RLS.png" height="25"/></a>|<a href="/SVG/RLS.svg"><img src="/SVG/RLS.svg" height="25"/></a>|
 |Streaming Dataset|<a href="/PNG/Streaming-Dataset.png"><img src="/PNG/Streaming-Dataset.png" height="25"/></a>|<A href="/SVG/Streaming-Dataset.svg"><img src="/SVG/Streaming-Dataset.svg" height="25"/></a>|
 |Streaming Dataflow|<a href="/PNG/StreamingDataflow.png"><img src="/PNG/StreamingDataflow.png" height="25"/></a>|<a href="/SVG/StreamingDataflow.svg"><img src="/SVG/StreamingDataflow.svg" height="25"/></a>|
 |Warning|<a href="/PNG/Warning.png"><img src="/PNG/Warning.png" height="25"/></a>|<a href="/SVG/Warning.svg"><img src="/SVG/Warning.svg" height="25"/></a>|
