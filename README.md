@@ -45,7 +45,6 @@ The following images are available:
 |Power BI Desktop|<a href="/PNG/Desktop.png"><img src="/PNG/Desktop.png" height="25"/></a>|<a href="/SVG/Desktop.svg"><img src="/SVG/Desktop.svg" height="25"/></a>|
 |Power BI Desktop optimized for Report Server|<a href="/PNG/DesktopRS.png"><img src="/PNG/DesktopRS.png" height="25"/></a>|<a href="/SVG/DesktopRS.svg"><img src="/SVG/DesktopRS.svg" height="25"/></a>|
 |Power BI File (PBIX)|<a href="/PNG/pbix.png"><img src="/PNG/pbix.png" height="25"/></a>||
-
 |Power BI Report Builder|<a href="/PNG/ReportBuilder.png"><img src="/PNG/ReportBuilder.png" height="25"/></a>|<a href="/SVG/ReportBuilder.svg"><img src="/SVG/ReportBuilder.svg" height="25"/></a>|
 |Power BI Template file (PBIT)|<a href="/PNG/pbit.png"><img src="/PNG/pbit.png" height="25"/></a>||
 |Power Query|<a href="/PNG/PowerQuery-Colored.png"><img src="/PNG/PowerQuery-Colored.png" height="25"/></a>|<a href="/SVG/PowerQuery-Colored.svg"><img src="/SVG/PowerQuery-Colored.svg" height="25"/></a>|
