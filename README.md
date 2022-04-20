@@ -40,11 +40,11 @@ The following images are available:
 |Power Apps|<a href="/PNG/PowerApps.png"><img src="/PNG/PowerApps.png" height="25"/></a>&nbsp;<a href="/PNG/PowerApps-Colored.png"><img src="/PNG/PowerApps-Colored.png" height="25"/></a>|<a href="/SVG/PowerApps.svg"><img src="/SVG/PowerApps.svg" height="25"/></a>|
 |Power Automate|<a href="/PNG/PowerAutomate.png"><img src="/PNG/PowerAutomate.png" height="25"/></a>&nbsp;<a href="/PNG/PowerAutomate-Colored.png"><img src="/PNG/PowerAutomate-Colored.png" height="25"/></a>|<a href="/SVG/PowerAutomate.svg"><img src="/SVG/PowerAutomate.svg" height="25"/></a>|
 |Power BI|<a href="/PNG/PowerBI.png"><img src="/PNG/PowerBI.png" height="25"/></a>|<a href="/SVG/PowerBI.svg"><img src="/SVG/PowerBI.svg" height="25"/></a>|
+|Power BI (obsolete 2020)|<a href="/PNG/IconObsolete2020.png"><img src="/PNG/IconObsolete2020.png" height="25"/></a>&nbsp;<a href="/PNG/IconObsolete2020Black.png"><img src="/PNG/IconObsolete2020Black.png" height="25"/></a>&nbsp;<a href="/PNG/IconObsolete2020Yellow.png"><img src="/PNG/IconObsolete2020Yellow.png" height="25"/></a>|<a href="/SVG/IconObsolete2020.svg"><img src="/SVG/IconObsolete2020.svg" height="25"/></a>|
 |Power BI Datasource file (PBIDS)|<a href="/PNG/pbids.png"><img src="/PNG/pbids.png" height="25"/></a>||
 |Power BI Desktop|<a href="/PNG/Desktop.png"><img src="/PNG/Desktop.png" height="25"/></a>|<a href="/SVG/Desktop.svg"><img src="/SVG/Desktop.svg" height="25"/></a>|
 |Power BI Desktop optimized for Report Server|<a href="/PNG/DesktopRS.png"><img src="/PNG/DesktopRS.png" height="25"/></a>|<a href="/SVG/DesktopRS.svg"><img src="/SVG/DesktopRS.svg" height="25"/></a>|
 |Power BI File (PBIX)|<a href="/PNG/pbix.png"><img src="/PNG/pbix.png" height="25"/></a>||
-|Power BI <s>Logo</s>Icon|<a href="/PNG/Logo.png"><img src="/PNG/Logo.png" height="25"/></a>&nbsp;<a href="/PNG/LogoBlack.png"><img src="/PNG/LogoBlack.png" height="25"/></a>&nbsp;<a href="/PNG/LogoYellow.png"><img src="/PNG/LogoYellow.png" height="25"/></a>|<a href="/SVG/Logo.svg"><img src="/SVG/Logo.svg" height="25"/></a>|
 |Power BI Report Builder|<a href="/PNG/ReportBuilder.png"><img src="/PNG/ReportBuilder.png" height="25"/></a>|<a href="/SVG/ReportBuilder.svg"><img src="/SVG/ReportBuilder.svg" height="25"/></a>|
 |Power BI Template file (PBIT)|<a href="/PNG/pbit.png"><img src="/PNG/pbit.png" height="25"/></a>||
 |Power Query|<a href="/PNG/PowerQuery-Colored.png"><img src="/PNG/PowerQuery-Colored.png" height="25"/></a>|<a href="/SVG/PowerQuery-Colored.svg"><img src="/SVG/PowerQuery-Colored.svg" height="25"/></a>|
