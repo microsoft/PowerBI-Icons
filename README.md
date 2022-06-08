@@ -27,8 +27,8 @@ The following images are available:
 |Folder|<a href="PNG/Folder.png"><img src="PNG/Folder.png" height="25"/></a>|<a href="SVG/Folder.svg"><img src="SVG/Folder.svg" height="25"/></a>|
 |Function|<a href="PNG/Function.png"><img src="PNG/Function.png" height="25"/></a>|<a href="SVG/Function.svg"><img src="SVG/Function.svg" height="25"/></a>|
 |Geospatial Field|<a href="PNG/GeospatialField.png"><img src="PNG/GeospatialField.png" height="25"/></a>|<a href="SVG/GeospatialField.svg"><img src="SVG/GeospatialField.svg" height="25"/></a>|
-|Metrics|<a href="PNG/Metrics.png"><img src="PNG/Metrics.png" height="25"/></a>|<a href="SVG/Metrics.svg"><img src="SVG/Metrics.svg" height="25"/></a>|
 |Linked Entity|<a href="PNG/LinkedEntity.png"><img src="PNG/LinkedEntity.png" height="25"/></a>|<a href="SVG/LinkedEntity.svg"><img src="SVG/LinkedEntity.svg" height="25"></a>|
+|Metrics|<a href="PNG/Metrics.png"><img src="PNG/Metrics.png" height="25"/></a>|<a href="SVG/Metrics.svg"><img src="SVG/Metrics.svg" height="25"/></a>|
 |Hierarchy|<a href="PNG/Hierarchy.png"><img src="PNG/Hierarchy.png" height="25"/></a>|<a href="SVG/Hierarchy.svg"><img src="SVG/Hierarchy.svg" height="25"/></a>|
 |Identity Field|<a href="PNG/IdentityField.png"><img src="PNG/IdentityField.png" height="25"/></a>|<a href="SVG/IdentityField.svg"><img src="SVG/IdentityField.svg" height="25"/></a>|
 |KPI|<a href="PNG/KPI.png"><img src="PNG/KPI.png" height="25"/></a>|<a href="SVG/KPI.svg"><img src="SVG/KPI.svg" height="25"/></a>|
