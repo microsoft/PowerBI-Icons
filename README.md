@@ -31,14 +31,14 @@ The following images are available:
 |Folder|<a href="PNG/Folder.png"><img src="PNG/Folder.png" height="25"/></a>|<a href="SVG/Folder.svg"><img src="SVG/Folder.svg" height="25"/></a>|
 |Function|<a href="PNG/Function.png"><img src="PNG/Function.png" height="25"/></a>|<a href="SVG/Function.svg"><img src="SVG/Function.svg" height="25"/></a>|
 |Geospatial Field|<a href="PNG/Geospatial-Field.png"><img src="PNG/Geospatial-Field.png" height="25"/></a>|<a href="SVG/Geospatial-Field.svg"><img src="SVG/Geospatial-Field.svg" height="25"/></a>|
-|Linked Entity|<a href="PNG/Linked-Entity.png"><img src="PNG/Linked-Entity.png" height="25"/></a>|<a href="SVG/Linked-Entity.svg"><img src="SVG/Linked-Entity.svg" height="25"></a>|
-|Metrics|<a href="PNG/Metrics.png"><img src="PNG/Metrics.png" height="25"/></a>|<a href="SVG/Metrics.svg"><img src="SVG/Metrics.svg" height="25"/></a>|
 |Hierarchy|<a href="PNG/Hierarchy.png"><img src="PNG/Hierarchy.png" height="25"/></a>|<a href="SVG/Hierarchy.svg"><img src="SVG/Hierarchy.svg" height="25"/></a>|
 |Identity Field|<a href="PNG/Identity-Field.png"><img src="PNG/Identity-Field.png" height="25"/></a>|<a href="SVG/Identity-Field.svg"><img src="SVG/Identity-Field.svg" height="25"/></a>|
 |KPI|<a href="PNG/KPI.png"><img src="PNG/KPI.png" height="25"/></a>|<a href="SVG/KPI.svg"><img src="SVG/KPI.svg" height="25"/></a>|
 |Learn|<a href="PNG/Learn.png"><img src="PNG/Learn.png" height="25"/></a>|<a href="SVG/Learn.svg"><img src="SVG/Learn.svg" height="25"/></a>|
+|Linked Entity|<a href="PNG/Linked-Entity.png"><img src="PNG/Linked-Entity.png" height="25"/></a>|<a href="SVG/Linked-Entity.svg"><img src="SVG/Linked-Entity.svg" height="25"></a>|
 |Measure|<a href="PNG/Measure.png"><img src="PNG/Measure.png" height="25"/></a>|<a href="SVG/Measure.svg"><img src="SVG/Measure.svg" height="25"/></a>|
 |Measure Group|<a href="PNG/Measure-Group.png"><img src="PNG/Measure-Group.png" height="25"/></a>|<a href="SVG/Measure-Group.svg"><img src="SVG/Measure-Group.svg" height="25"/></a>|
+|Metrics|<a href="PNG/Metrics.png"><img src="PNG/Metrics.png" height="25"/></a>|<a href="SVG/Metrics.svg"><img src="SVG/Metrics.svg" height="25"/></a>|
 |Numeric Field|<a href="PNG/Numeric-Field.png"><img src="PNG/Numeric-Field.png" height="25"/></a>|<a href="SVG/Numeric-Field.svg"><img src="SVG/Numeric-Field.svg" height="25"/></a>|
 |Paginated Report|<a href="PNG/Paginated-Report.png"><img src="PNG/Paginated-Report.png" height="25"/></a>|<a href="SVG/Paginated-Report.svg"><img src="SVG/Paginated-Report.svg" height="25"/></a>|
 |Parameter|<a href="PNG/Parameter.png"><img src="PNG/Parameter.png" height="25"/></a>|<a href="SVG/Parameter.svg"><img src="SVG/Parameter.svg" height="25"/></a>|
