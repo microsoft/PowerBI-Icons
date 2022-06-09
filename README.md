@@ -19,6 +19,7 @@ The following images are available:
 |Create|<a href="PNG/Create.png"><img src="PNG/Create.png" height="25"/></a>|<a href="SVG/Create.svg"><img src="SVG/Create.svg" height="25"/></a>|
 |Dataflow|<a href="PNG/Dataflow.png"><img src="PNG/Dataflow.png" height="25"/></a>|<a href="SVG/Dataflow.svg"><img src="SVG/Dataflow.svg" height="25"/></a>|
 |Datagroup|<a href="PNG/Datagroup.png"><img src="PNG/Datagroup.png" height="25"/></a>|<a href="SVG/Datagroup.svg"><img src="SVG/Datagroup.svg" height="25"/></a>|
+|Datahub|<a href="PNG/Datahub.png"><img src="PNG/Datahub.png" height="25"/></a>|<a href="SVG/Datahub.svg"><img src="SVG/Datahub.svg" height="25"/></a>|
 |Dashboard|<a href="PNG/Dashboard.png"><img src="PNG/Dashboard.png" height="25"/></a>|<a href="SVG/Dashboard.svg"><img src="SVG/Dashboard.svg" height="25"/></a>|
 |Dataset|<a href="PNG/Dataset.png"><img src="PNG/Dataset.png" height="25"/></a>|<a href="SVG/Dataset.svg"><img src="SVG/Dataset.svg" height="25"/></a>|
 |Dataverse|<a href="PNG/Dataverse.png"><img src="PNG/Dataverse.png" height="25"/></a>&nbsp;<a href="PNG/Dataverse-Colored.png"><img src="PNG/Dataverse-Colored.png" height="25"/></a>|<a href="SVG/Dataverse.svg"><img src="SVG/Dataverse.svg" height="25"/></a>&nbsp;<a href="SVG/Dataverse-Colored.svg"><img src="SVG/Dataverse-Colored.svg" height="25"/></a>|
