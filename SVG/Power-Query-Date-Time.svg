@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0,0,2048,2048"
+   version="1.1"
+   id="svg16492"
+   sodipodi:docname="Power-Query-Date-Time.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata16498">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16496" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1620"
+     inkscape:window-height="1057"
+     id="namedview16494"
+     showgrid="false"
+     inkscape:zoom="7.875"
+     inkscape:cx="12.487986"
+     inkscape:cy="39.787494"
+     inkscape:window-x="-8"
+     inkscape:window-y="402"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16492" />
+  <path
+     class="OfficeIconColors_HighContrast"
+     d="M 1568 1088 q 99 0 187 38 q 87 37 153 103 q 65 65 103 153 q 37 87 37 186 q 0 99 -37 187 q -38 87 -103 153 q -66 65 -153 103 q -88 37 -187 37 q -99 0 -186 -37 q -88 -38 -153 -103 q -66 -66 -103 -153 q -38 -88 -38 -187 q 0 -99 38 -186 q 37 -88 103 -153 q 65 -66 153 -103 q 87 -38 186 -38 m 0 896 q 86 0 162 -33 q 75 -33 132 -89 q 56 -57 89 -132 q 33 -76 33 -162 q 0 -86 -33 -161 q -33 -76 -89 -132 q -57 -57 -132 -90 q -76 -33 -162 -33 q -86 0 -161 33 q -76 33 -132 90 q -57 56 -90 132 q -33 75 -33 161 q 0 86 33 162 q 33 75 90 132 q 56 56 132 89 q 75 33 161 33 m 32 -448 h 188 v 64 h -252 v -320 h 64 m -530 576 q 10 17 21 33 q 10 16 22 31 h -985 v -1664 h 320 v -128 h 64 v 128 h 1024 v -128 h 64 v 128 h 320 v 857 q -15 -12 -31 -22 q -16 -11 -33 -21 v -430 h -1664 v 1216 m 0 -1280 h 1664 v -256 h -256 v 128 h -64 v -128 h -1024 v 128 h -64 v -128 h -256 z"
+     id="path16482" />
+  <path
+     class="OfficeIconColors_m22"
+     d="M 1070 1856 q 10 17 21 33 q 10 16 22 31 h -985 v -1664 h 320 v -128 h 64 v 128 h 1024 v -128 h 64 v 128 h 320 v 857 q -15 -12 -31 -22 q -16 -11 -33 -21 v -430 h -1664 v 1216 m 0 -1280 h 1664 v -256 h -256 v 128 h -64 v -128 h -1024 v 128 h -64 v -128 h -256 z"
+     id="path16486" />
+  <path
+     class="OfficeIconColors_m24"
+     d="M 1568 1088 q 99 0 187 38 q 87 37 153 103 q 65 65 103 153 q 37 87 37 186 q 0 99 -37 187 q -38 87 -103 153 q -66 65 -153 103 q -88 37 -187 37 q -99 0 -186 -37 q -88 -38 -153 -103 q -66 -66 -103 -153 q -38 -88 -38 -187 q 0 -99 38 -186 q 37 -88 103 -153 q 65 -66 153 -103 q 87 -38 186 -38 m 0 896 q 86 0 162 -33 q 75 -33 132 -89 q 56 -57 89 -132 q 33 -76 33 -162 q 0 -86 -33 -161 q -33 -76 -89 -132 q -57 -57 -132 -90 q -76 -33 -162 -33 q -86 0 -161 33 q -76 33 -132 90 q -57 56 -90 132 q -33 75 -33 161 q 0 86 33 162 q 33 75 90 132 q 56 56 132 89 q 75 33 161 33 z"
+     id="path16488" />
+  <path
+     class="OfficeIconColors_m22"
+     d="M 1600 1536 h 192 v 64 h -256 v -320 h 64 z"
+     id="path16490" />
+</svg>
