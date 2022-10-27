@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0,0,2048,2048"
+   version="1.1"
+   id="svg10128"
+   sodipodi:docname="Power-Query-Date-Time-Timezone.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata10134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10132" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1620"
+     inkscape:window-height="1057"
+     id="namedview10130"
+     showgrid="false"
+     inkscape:zoom="15.75"
+     inkscape:cx="20.023922"
+     inkscape:cy="23.241098"
+     inkscape:window-x="-8"
+     inkscape:window-y="402"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10128" />
+  <path
+     class="OfficeIconColors_HighContrast"
+     d="M 1568 1088 q 95 0 182 36 q 87 36 153 101 q 66 64 106 152 q 39 88 39 191 q 0 95 -36 182 q -36 87 -100 153 q -64 66 -152 106 q -88 39 -192 39 q -100 0 -187 -38 q -88 -38 -153 -103 q -65 -66 -102 -153 q -38 -88 -38 -186 q 0 -100 39 -188 q 38 -88 104 -152 q 65 -65 152 -102 q 87 -38 185 -38 m 0 896 q 83 0 159 -32 q 75 -32 132 -88 q 57 -56 91 -132 q 34 -76 34 -164 q 0 -89 -34 -165 q -35 -77 -93 -132 q -58 -56 -133 -87 q -75 -32 -156 -32 q -88 0 -164 34 q -76 34 -132 91 q -56 57 -88 133 q -32 75 -32 158 q 0 81 32 157 q 31 75 87 133 q 55 57 131 92 q 76 34 166 34 m 32 -448 h 192 v 64 h -256 v -320 h 64 m -534 570 q 10 17 21 33 q 10 16 22 32 q -21 2 -42 4 q -21 1 -43 1 q -131 0 -248 -34 q -117 -34 -216 -94 q -100 -61 -180 -144 q -80 -84 -136 -183 q -56 -100 -86 -212 q -30 -112 -30 -229 q 0 -114 30 -225 q 30 -111 86 -210 q 55 -100 135 -184 q 79 -85 179 -146 q 99 -62 217 -96 q 117 -35 249 -35 q 118 0 231 31 q 112 30 212 87 q 100 57 183 138 q 83 80 143 180 q 60 99 94 216 q 33 116 33 244 q 0 22 -1 43 q -2 21 -4 42 q -14 -11 -29 -21 q -16 -10 -32 -19 q 1 -11 2 -22 q 0 -12 0 -23 q 0 -67 -10 -130 q -10 -64 -30 -126 h -363 q 10 57 14 114 q 4 57 4 119 q -16 3 -32 6 q -16 3 -31 8 q -2 -68 -6 -128 q -5 -61 -13 -119 h -730 q -9 60 -14 123 q -5 63 -5 133 q 0 69 5 132 q 5 63 14 124 h 411 q -19 33 -33 64 h -367 q 21 111 58 205 q 37 94 84 163 q 47 68 102 106 q 54 38 110 38 q 11 0 21 -2 q 10 -2 21 -4 m 336 -1567 q -89 -46 -186 -69 q 78 75 137 201 q 58 126 90 289 h 349 q -57 -137 -158 -246 q -101 -109 -232 -175 m -484 -55 q -38 24 -75 69 q -38 44 -70 105 q -33 60 -59 137 q -27 76 -44 165 h 708 q -23 -123 -62 -218 q -40 -96 -88 -161 q -48 -65 -101 -99 q -53 -34 -103 -34 q -54 0 -106 36 m -566 306 q -59 81 -96 170 h 349 q 31 -162 91 -288 q 59 -127 136 -202 q -147 34 -269 118 q -123 84 -211 202 m 243 746 q -11 -61 -15 -125 q -4 -64 -4 -131 q 0 -66 4 -130 q 4 -65 15 -126 h -363 q -20 62 -30 126 q -10 63 -10 130 q 0 68 10 131 q 10 63 30 125 m 414 486 q 90 46 186 68 q -77 -74 -136 -201 q -60 -127 -91 -289 h -349 q 57 140 158 247 q 101 106 232 175 z"
+     id="path10116" />
+  <path
+     class="OfficeIconColors_m22"
+     d="M 1600 1536 h 192 v 64 h -256 v -320 h 64 z"
+     id="path10124" />
+  <path
+     class="OfficeIconColors_m24"
+     d="M 1568 1088 q 95 0 182 36 q 87 36 153 101 q 66 64 106 152 q 39 88 39 191 q 0 95 -36 182 q -36 87 -100 153 q -64 66 -152 106 q -88 39 -192 39 q -100 0 -187 -38 q -88 -38 -153 -103 q -65 -66 -102 -153 q -38 -88 -38 -186 q 0 -100 39 -188 q 38 -88 104 -152 q 65 -65 152 -102 q 87 -38 185 -38 m 0 896 q 83 0 159 -32 q 75 -32 132 -88 q 57 -56 91 -132 q 34 -76 34 -164 q 0 -89 -34 -165 q -35 -77 -93 -132 q -58 -56 -133 -87 q -75 -32 -156 -32 q -88 0 -164 34 q -76 34 -132 91 q -56 57 -88 133 q -32 75 -32 158 q 0 81 32 157 q 31 75 87 133 q 55 57 131 92 q 76 34 166 34 z"
+     id="path10126" />
+</svg>
