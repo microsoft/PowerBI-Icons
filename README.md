@@ -38,7 +38,9 @@ The following images are available:
 |Deployment Pipeline - Development|<a href="PNG/Deployment-Pipeline-Development.png"><img src="PNG/Deployment-Pipeline-Development.png" height="25"/></a>|<a href="SVG/Deployment-Pipeline-Development.svg"><img src="SVG/Deployment-Pipeline-Development.svg" height="25"/></a>|
 |Deployment Pipeline - Production|<a href="PNG/Deployment-Pipeline-Production.png"><img src="PNG/Deployment-Pipeline-Production.png" height="25"/></a>|<a href="SVG/Deployment-Pipeline-Production.svg"><img src="SVG/Deployment-Pipeline-Production.svg" height="25"/></a>|
 |Deployment Pipeline - Test|<a href="PNG/Deployment-Pipeline-Test.png"><img src="PNG/Deployment-Pipeline-Test.png" height="25"/></a>|<a href="SVG/Deployment-Pipeline-Test.svg"><img src="SVG/Deployment-Pipeline-Test.svg" height="25"/></a>|
+|DirectQuery|<a href="PNG/DirectQuery.png"><img src="PNG/DirectQuery.png" height="25"/></a>|<a href="SVG/DirectQuery.svg"><img src="SVG/DirectQuery.svg" height="25"/></a>|
 |Discover|<a href="PNG/Discover.png"><img src="PNG/Discover.png" height="25"/></a>|<a href="SVG/Discover.svg"><img src="SVG/Discover.svg" height="25"/></a>|
+|Dual|<a href="PNG/Dual.png"><img src="PNG/Dual.png" height="25"/></a>|<a href="SVG/Dual.svg"><img src="SVG/Dual.svg" height="25"/></a>|
 |Duration (Power Query data type)|<a href="PNG/Power-Query-Duration.png"><img src="PNG/Power-Query-Duration.png" height="25"/></a>|<a href="SVG/Power-Query-Duration.svg"><img src="SVG/Power-Query-Duration.svg" height="25"/></a>|
 |Excel Workbook|<a href="PNG/Excel-Workbook.png"><img src="PNG/Excel-Workbook.png" height="25"/></a>|<a href="SVG/Excel-Workbook.svg"><img src="SVG/Excel-Workbook.svg" height="25"/></a>|
 |Favorites|<a href="PNG/Favorites.png"><img src="PNG/Favorites.png" height="25"/></a>|<a href="SVG/Favorites.svg"><img src="SVG/Favorites.svg" height="25"/></a>|
@@ -48,14 +50,17 @@ The following images are available:
 |Geospatial Field|<a href="PNG/Geospatial-Field.png"><img src="PNG/Geospatial-Field.png" height="25"/></a>|<a href="SVG/Geospatial-Field.svg"><img src="SVG/Geospatial-Field.svg" height="25"/></a>|
 |Hierarchy|<a href="PNG/Hierarchy.png"><img src="PNG/Hierarchy.png" height="25"/></a>|<a href="SVG/Hierarchy.svg"><img src="SVG/Hierarchy.svg" height="25"/></a>|
 |Identity Field|<a href="PNG/Identity-Field.png"><img src="PNG/Identity-Field.png" height="25"/></a>|<a href="SVG/Identity-Field.svg"><img src="SVG/Identity-Field.svg" height="25"/></a>|
+|Import|<a href="PNG/Import.png"><img src="PNG/Import.png" height="25"/></a>|<a href="SVG/Import.svg"><img src="SVG/Import.svg" height="25"/></a>|
 |KPI|<a href="PNG/KPI.png"><img src="PNG/KPI.png" height="25"/></a>|<a href="SVG/KPI.svg"><img src="SVG/KPI.svg" height="25"/></a>|
 |Learn|<a href="PNG/Learn.png"><img src="PNG/Learn.png" height="25"/></a>|<a href="SVG/Learn.svg"><img src="SVG/Learn.svg" height="25"/></a>|
 |Linked Entity|<a href="PNG/Linked-Entity.png"><img src="PNG/Linked-Entity.png" height="25"/></a>|<a href="SVG/Linked-Entity.svg"><img src="SVG/Linked-Entity.svg" height="25"></a>|
 |List (Power Query)|<a href="PNG/Power-Query-List.png"><img src="PNG/Power-Query-List.png" height="25"/></a>|<a href="SVG/Power-Query-List.svg"><img src="SVG/Power-Query-List.svg" height="25"/></a>|
+|Live Connection|<a href="PNG/Live-Connection.png"><img src="PNG/Live-Connection.png" height="25"/></a>|<a href="SVG/Live-Connection.svg"><img src="SVG/Live-Connection.svg" height="25"/></a>|
 |Manage Permissions|<a href="PNG/Manage-Permissions.png"><img src="PNG/Manage-Permissions.png" height="25"/></a>|<a href="SVG/Manage-Permissions.svg"><img src="SVG/Manage-Permissions.svg" height="25"/></a>|
 |Measure|<a href="PNG/Measure.png"><img src="PNG/Measure.png" height="25"/></a>|<a href="SVG/Measure.svg"><img src="SVG/Measure.svg" height="25"/></a>|
 |Measure Group|<a href="PNG/Measure-Group.png"><img src="PNG/Measure-Group.png" height="25"/></a>|<a href="SVG/Measure-Group.svg"><img src="SVG/Measure-Group.svg" height="25"/></a>|
 |Metrics|<a href="PNG/Metrics.png"><img src="PNG/Metrics.png" height="25"/></a>|<a href="SVG/Metrics.svg"><img src="SVG/Metrics.svg" height="25"/></a>|
+|Model|<a href="PNG/Model.png"><img src="PNG/Model.png" height="25"/></a>|<a href="SVG/Model.svg"><img src="SVG/Model.svg" height="25"/></a>|
 |Numeric Field|<a href="PNG/Numeric-Field.png"><img src="PNG/Numeric-Field.png" height="25"/></a>|<a href="SVG/Numeric-Field.svg"><img src="SVG/Numeric-Field.svg" height="25"/></a>|
 |Paginated Report|<a href="PNG/Paginated-Report.png"><img src="PNG/Paginated-Report.png" height="25"/></a>|<a href="SVG/Paginated-Report.svg"><img src="SVG/Paginated-Report.svg" height="25"/></a>|
 |Parameter|<a href="PNG/Parameter.png"><img src="PNG/Parameter.png" height="25"/></a>|<a href="SVG/Parameter.svg"><img src="SVG/Parameter.svg" height="25"/></a>|
@@ -75,19 +80,22 @@ The following images are available:
 |Premium|<a href="PNG/Premium.png"><img src="PNG/Premium.png" height="25"/></a>|<a href="SVG/Premium.svg"><img src="SVG/Premium.svg" height="25"/></a>|
 |Premium Per User|<a href="PNG/Premium-Per-User.png"><img src="PNG/Premium-Per-User.png" height="25"/></a>|<a href="SVG/Premium-Pe-rUser.svg"><img src="SVG/Premium-Per-User.svg" height="25"/></a>|
 |Promoted|<a href="PNG/Promoted.png"><img src="PNG/Promoted.png" height="25"/></a>|<a href="SVG/Promoted.svg"><img src="SVG/Promoted.svg" height="25"/></a>|
+|Query|<a href="PNG/Query.png"><img src="PNG/Query.png" height="25"/></a>|<a href="SVG/Query.svg"><img src="SVG/Query.svg" height="25"/></a>|
 |Recent|<a href="PNG/Recent.png"><img src="PNG/Recent.png" height="25"/></a>|<a href="SVG/Recent.svg"><img src="SVG/Recent.svg" height="25"/></a>|
 |Record (Power Query)|<a href="PNG/Power-Query-Record.png"><img src="PNG/Power-Query-Record.png" height="25"/></a>|<a href="SVG/Power-Query-Record.svg"><img src="SVG/Power-Query-Record.svg" height="25"/></a>|
 |Rename|<a href="PNG/Rename.png"><img src="PNG/Rename.png" height="25"/></a>|<a href="SVG/Rename.svg"><img src="SVG/Rename.svg" height="25"/></a>|
 |Report|<a href="PNG/Report.png"><img src="PNG/Report.png" height="25"/></a>|<a href="SVG/Report.svg"><img src="SVG/Report.svg" height="25"/></a>|
 |Row-level security (RLS)|<a href="PNG/RLS.png"><img src="PNG/RLS.png" height="25"/></a>|<a href="SVG/RLS.svg"><img src="SVG/RLS.svg" height="25"/></a>|
 |Shared With Me|<a href="PNG/Shared-With-Me.png"><img src="PNG/Shared-With-Me.png" height="25"/></a>|<A href="SVG/Shared-With-Me.svg"><img src="SVG/Shared-With-Me.svg" height="25"/></a>|
+|SQL Query|<a href="PNG/SQL-Query.png"><img src="PNG/SQL-Query.png" height="25"/></a>|<a href="SVG/SQL-Query.svg"><img src="SVG/SQL-Query.svg" height="25"/></a>|
 |Streaming Dataset|<a href="PNG/Streaming-Dataset.png"><img src="PNG/Streaming-Dataset.png" height="25"/></a>|<A href="SVG/Streaming-Dataset.svg"><img src="SVG/Streaming-Dataset.svg" height="25"/></a>|
 |Streaming Dataflow|<a href="PNG/Streaming-Dataflow.png"><img src="PNG/Streaming-Dataflow.png" height="25"/></a>|<a href="SVG/Streaming-Dataflow.svg"><img src="SVG/Streaming-Dataflow.svg" height="25"/></a>|
-|Table|<a href="PNG/Table.png"><img src="PNG/Table.png" height="25"/></a>|<a href="SVG/Table.svg"><img src="SVG/Table.svg" height="25"/></a>|
+|Table|<a href="PNG/Table.png"><img src="PNG/Table.png" height="25"/></a><a href="PNG/Table-new.png"><img src="PNG/Table-new.png" height="25"/></a>|<a href="SVG/Table.svg"><img src="SVG/Table.svg" height="25"/></a><a href="SVG/Table-new.svg"><img src="SVG/Table-new.svg" height="25"/></a>|
 |Table (Power Query)|<a href="PNG/Power-Query-Table.png"><img src="PNG/Power-Query-Table.png" height="25"/></a>|<a href="SVG/Power-Query-Table.svg"><img src="SVG/Power-Query-Table.svg" height="25"/></a>|
 |Text (Power Query data type)|<a href="PNG/Power-Query-Text.png"><img src="PNG/Power-Query-Text.png" height="25"/></a>|<a href="SVG/Power-Query-Text.svg"><img src="SVG/Power-Query-Text.svg" height="25"/></a>|
 |Time (Power Query data type)|<a href="PNG/Power-Query-Time.png"><img src="PNG/Power-Query-Time.png" height="25"/></a>|<a href="SVG/Power-Query-Time.svg"><img src="SVG/Power-Query-Time.svg" height="25"/></a>|
 |True / False (Power Query data type)|<a href="PNG/Power-Query-True-False.png"><img src="PNG/Power-Query-True-False.png" height="25"/></a>|<a href="SVG/Power-Query-True-False.svg"><img src="SVG/Power-Query-True-False.svg" height="25"/></a>
+|Visual Query|<a href="PNG/Visual-Query.png"><img src="PNG/Visual-Query.png" height="25"/></a>|<a href="SVG/Visual-Query.svg"><img src="SVG/Visual-Query.svg" height="25"/></a>|
 |Warning|<a href="PNG/Warning.png"><img src="PNG/Warning.png" height="25"/></a>|<a href="SVG/Warning.svg"><img src="SVG/Warning.svg" height="25"/></a>|
 |Workspace|<a href="PNG/Workspace.png"><img src="PNG/Workspace.png" height="25"/></a>|<a href="SVG/Workspace.svg"><img src="SVG/Workspace.svg" height="25"/></a>|
 |Whole Number (Power Query data type)|<a href="PNG/Power-Query-Whole-Number.png"><img src="PNG/Power-Query-Whole-Number.png" height="25"/></a>|<a href="SVG/Power-Query-Whole-Number.svg"><img src="SVG/Power-Query-Whole-Number.svg" height="25"/></a>|
