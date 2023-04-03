@@ -33,6 +33,7 @@ The following images are available:
 |Date/Time (Power Query data type)|<a href="PNG/Power-Query-Date-Time.png"><img src="PNG/Power-Query-Date-Time.png" height="25"/></a>|<a href="SVG/Power-Query-Date-Time.svg"><img src="SVG/Power-Query-Date-Time.svg" height="25"/></a>|
 |Date/Time/Timezone (Power Query data type)|<a href="PNG/Power-Query-Date-Time-Timezone.png"><img src="PNG/Power-Query-Date-Time-Timezone.png" height="25"/></a>|<a href="SVG/Power-Query-Date-Time-Timezone.svg"><img src="SVG/Power-Query-Date-Time-Timezone.svg" height="25"/></a>|
 |Decimal number (Power Query data type)|<a href="PNG/Power-Query-Decimal-Number.png"><img src="PNG/Power-Query-Decimal-Number.png" height="25"/></a>|<a href="SVG/Power-Query-Decimal-Number.svg"><img src="SVG/Power-Query-Decimal-Number.svg" height="25"/></a>|
+|Delete|<a href="PNG/Delete.png"><img src="PNG/Delete.png" height="25"/></a>|<a href="SVG/Delete.svg"><img src="SVG/Delete.svg" height="25"/></a>|
 |Deployment Pipeline|<a href="PNG/Deployment-Pipeline.png"><img src="PNG/Deployment-Pipeline.png" height="25"/></a>|<a href="SVG/Deployment-Pipeline.svg"><img src="SVG/Deployment-Pipeline.svg" height="25"/></a>|
 |Deployment Pipeline - Development|<a href="PNG/Deployment-Pipeline-Development.png"><img src="PNG/Deployment-Pipeline-Development.png" height="25"/></a>|<a href="SVG/Deployment-Pipeline-Development.svg"><img src="SVG/Deployment-Pipeline-Development.svg" height="25"/></a>|
 |Deployment Pipeline - Production|<a href="PNG/Deployment-Pipeline-Production.png"><img src="PNG/Deployment-Pipeline-Production.png" height="25"/></a>|<a href="SVG/Deployment-Pipeline-Production.svg"><img src="SVG/Deployment-Pipeline-Production.svg" height="25"/></a>|
@@ -51,6 +52,7 @@ The following images are available:
 |Learn|<a href="PNG/Learn.png"><img src="PNG/Learn.png" height="25"/></a>|<a href="SVG/Learn.svg"><img src="SVG/Learn.svg" height="25"/></a>|
 |Linked Entity|<a href="PNG/Linked-Entity.png"><img src="PNG/Linked-Entity.png" height="25"/></a>|<a href="SVG/Linked-Entity.svg"><img src="SVG/Linked-Entity.svg" height="25"></a>|
 |List (Power Query)|<a href="PNG/Power-Query-List.png"><img src="PNG/Power-Query-List.png" height="25"/></a>|<a href="SVG/Power-Query-List.svg"><img src="SVG/Power-Query-List.svg" height="25"/></a>|
+|Manage Permissions|<a href="PNG/Manage-Permissions.png"><img src="PNG/Manage-Permissions.png" height="25"/></a>|<a href="SVG/Manage-Permissions.svg"><img src="SVG/Manage-Permissions.svg" height="25"/></a>|
 |Measure|<a href="PNG/Measure.png"><img src="PNG/Measure.png" height="25"/></a>|<a href="SVG/Measure.svg"><img src="SVG/Measure.svg" height="25"/></a>|
 |Measure Group|<a href="PNG/Measure-Group.png"><img src="PNG/Measure-Group.png" height="25"/></a>|<a href="SVG/Measure-Group.svg"><img src="SVG/Measure-Group.svg" height="25"/></a>|
 |Metrics|<a href="PNG/Metrics.png"><img src="PNG/Metrics.png" height="25"/></a>|<a href="SVG/Metrics.svg"><img src="SVG/Metrics.svg" height="25"/></a>|
@@ -75,6 +77,7 @@ The following images are available:
 |Promoted|<a href="PNG/Promoted.png"><img src="PNG/Promoted.png" height="25"/></a>|<a href="SVG/Promoted.svg"><img src="SVG/Promoted.svg" height="25"/></a>|
 |Recent|<a href="PNG/Recent.png"><img src="PNG/Recent.png" height="25"/></a>|<a href="SVG/Recent.svg"><img src="SVG/Recent.svg" height="25"/></a>|
 |Record (Power Query)|<a href="PNG/Power-Query-Record.png"><img src="PNG/Power-Query-Record.png" height="25"/></a>|<a href="SVG/Power-Query-Record.svg"><img src="SVG/Power-Query-Record.svg" height="25"/></a>|
+|Rename|<a href="PNG/Rename.png"><img src="PNG/Rename.png" height="25"/></a>|<a href="SVG/Rename.svg"><img src="SVG/Rename.svg" height="25"/></a>|
 |Report|<a href="PNG/Report.png"><img src="PNG/Report.png" height="25"/></a>|<a href="SVG/Report.svg"><img src="SVG/Report.svg" height="25"/></a>|
 |Row-level security (RLS)|<a href="PNG/RLS.png"><img src="PNG/RLS.png" height="25"/></a>|<a href="SVG/RLS.svg"><img src="SVG/RLS.svg" height="25"/></a>|
 |Shared With Me|<a href="PNG/Shared-With-Me.png"><img src="PNG/Shared-With-Me.png" height="25"/></a>|<A href="SVG/Shared-With-Me.svg"><img src="SVG/Shared-With-Me.svg" height="25"/></a>|
