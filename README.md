@@ -21,6 +21,9 @@ The following images are available:
 |Calculated Column|<a href="PNG/Calculated-Column.png"><img src="PNG/Calculated-Column.png" height="25"/></a>|<a href="SVG/Calculated-Column.svg"><img src="SVG/Calculated-Column.svg" height="25"/></a>|
 |Calculated Column Numeric|<a href="PNG/Calculated-Column-Numeric.png"><img src="PNG/Calculated-Column-Numeric.png" height="25"/></a>|<a href="SVG/Calculate-Column-Numeric.svg"><img src="SVG/Calculated-Column-Numeric.svg" height="25"/></a>|
 |Calculated Table|<a href="PNG/Calculated-Table.png"><img src="PNG/Calculated-Table.png" height="25"/></a>|<a href="SVG/Calculated-Table.svg"><img src="SVG/Calculated-Table.svg" height="25"/></a>|
+|Calculation group|<a href="PNG/Calculation group.png"><img src="PNG/Calculation group.png" height="25"/></a>|<a href="Calculation group.svg"><img src="Calculation group.svg" height="25"/></a>|
+|Calculation group column|<a href="PNG/Calculation group column.png"><img src="PNG/Calculation group column.png" height="25"/></a>|<a href="Calculation group column.svg"><img src="Calculation group column.svg" height="25"/></a>|
+|Calculation item|<a href="PNG/Calculation item.png"><img src="PNG/Calculation item.png" height="25"/></a>|<a href="Calculation item.svg"><img src="Calculation item.svg" height="25"/></a>|
 |Certified|<a href="PNG/Certified.png"><img src="PNG/Certified.png" height="25"/></a>|<a href="SVG/Certified.svg"><img src="SVG/Certified.svg" height="25"/></a>|
 |Change Detection Measure|<a href="PNG/Change-Detection-Measure.png"><img src="PNG/Change-Detection-Measure.png" height="25"/></a>|<a href="SVG/Change-Detection-Measure.svg"><img src="SVG/Change-Detection-Measure.svg" height="25"/></a>|
 |Computed Entity|<a href="PNG/Computed-Entity.png"><img src="PNG/Computed-Entity.png" height="25"/></a>|<a href="SVG/Computed-Entity.svg"><img src="SVG/Computed-Entity.svg" height="25"/></a>|
