@@ -7,7 +7,14 @@ Are you looking for Fabric icons? They are not provided here, but instead you ca
 
 Note: you might be seeing different versions of these icons depending on what application you are using. These are the current official icons.
 
+## Conditional Formatting Icons
 
+This repository also includes the SVG versions of the icons used in Power BI for Conditional Formatting rules. This is especially useful 
+if you are looking to create new theme files with custom icons and would like to have a starting point for existing icons. It can also 
+be helpful if you are using visualizations that support SVG images but not the built-in icons or in use in images for interactive elements
+like buttons and more.
+
+For details about the formatting icons and what is included in this repo, please refer to the [Conditional Formatting Icons readme](/ConditionalFormattingIcons/README.md).
 
 ## Available images
 The following images are available:
