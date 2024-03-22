@@ -10,7 +10,7 @@ For information about the other UX related icons, please check out the [main rea
 ## Icon Overview Sample
 A sample Power BI Desktop file (.pbix) has been included to make it easy to setup a conditional formatting lookup table in your Power BI reports.
 
-<img src="IconOverview.png" height="250" />
+<a href="Conditional Formatting Icons Sample.pbix"><img src="IconOverview.png" height="250" /></a>
 
 ## Available images
 The following images are available:
