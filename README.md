@@ -1,4 +1,6 @@
-# Power BI Icons
+# Power BI Icons (archive)
+
+This repository is no longer getting updated. Find the icons for Fabric in [the Fabric documentation](https://learn.microsoft.com/fabric/get-started/icons).
 
 This repository contains PNG and SVG versions of icons for Power BI, provided to you to use in your documents or architecture diagrams.
 Usage of these icons is subject to the license under which they are provided (see [legal notices](#legal-notices)).
